@@ -1,0 +1,22 @@
+{
+  "locations": [
+    {
+      "id":1,
+      "address": "200 Candy Row",
+      "squareFt": 2000,
+      "handicapAcc": true
+    },
+    {
+      "id":2,
+      "address": "1414 Rock Candy St",
+      "squareFt": 1500,
+      "handicapAcc": true
+    },
+    {
+      "id":3,
+      "address": "50A JawBreaker Lane",
+      "squareFt": 2000,
+      "handicapAcc": true
+    }
+  ]
+}

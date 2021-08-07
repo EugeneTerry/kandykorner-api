@@ -1,5 +1,4 @@
 {
-  "products": [],
   "locations": [
     {
       "id":1,
@@ -21,6 +20,56 @@
     }
   ],
   "employees": [],
-  "productTypes": [],
+  "productTypes": [
+    {
+      "id":1,
+      "name": "JawBreaker 3000",
+      "type": "Hard Candy",
+      "price": 0.65,
+      "locationId": 1
+    },
+    {
+      "id":2,
+      "name": "ChewMaster X",
+      "type": "Gum",
+      "price": 0.85,
+      "locationId": 2
+    },
+    {
+      "id":3,
+      "name": "Co-Co Wonder",
+      "type": "Chocolate",
+      "price": 1.35,
+      "locationId": 3
+    },
+    {
+      "id":4,
+      "name": "FizzBoss",
+      "type": "Sodas",
+      "price": 1.50,
+      "locationId": 1
+    },
+    {
+      "id":5,
+      "name": "Zigley's Chew",
+      "type": "Gum",
+      "price": 0.95,
+      "locationId": 3
+    },
+    {
+      "id":6,
+      "name": "Jestles Krunch",
+      "type": "Chocolate",
+      "price": 1.20,
+      "locationId": 3
+    },
+    {
+      "id":7,
+      "name": "Sprate",
+      "type": "Sodas",
+      "price": 0.75,
+      "locationId": 2
+    }
+  ],
   "customers": []
 }

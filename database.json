@@ -3,49 +3,49 @@
     {
       "id":1,
       "name": "JawBreaker 3000",
-      "typeId": 1,
+      "productTypeId": 1,
       "price": 0.65,
       "locationId": 1
     },
     {
       "id":2,
       "name": "ChewMaster X",
-      "typeId": 2,
+      "productTypeId": 2,
       "price": 0.85,
       "locationId": 2
     },
     {
       "id":3,
       "name": "Co-Co Wonder",
-      "typeId": 3,
+      "productTypeId": 3,
       "price": 1.35,
       "locationId": 3
     },
     {
       "id":4,
       "name": "FizzBoss",
-      "typeId": 4,
+      "productTypeId": 4,
       "price": 1.50,
       "locationId": 1
     },
     {
       "id":5,
       "name": "Zigley's Chew",
-      "typeId": 2,
+      "productTypeId": 2,
       "price": 0.95,
       "locationId": 3
     },
     {
       "id":6,
       "name": "Jestles Krunch",
-      "typeId": 3,
+      "productTypeId": 3,
       "price": 1.20,
       "locationId": 3
     },
     {
       "id":7,
       "name": "Sprate",
-      "typeId": 4,
+      "productTypeId": 4,
       "price": 0.75,
       "locationId": 2
     }
